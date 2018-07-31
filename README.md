@@ -1,6 +1,5 @@
 # Initial_projects
-Personnel projects
-#List of projects
 
-#1 - Crime Analysis of Chicago - code inside pdf, along with analysis
+#List of projects
+#1 - Crime Analysis of Chicago - R markdown code inside pdf, along with detailed analysis, documentation and recommendations
 
